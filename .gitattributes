@@ -1,0 +1,3 @@
+# Git Attributes
+.* export-ignore
+unincluded export-ignore
